@@ -11,7 +11,7 @@
 добавить
 
 ### Блокнот на Google Disk
-https://colab.research.google.com/drive/1eXIpe8ElnaMMkstkDt9j9CHTxuGbZEDY#scrollTo=APjylC1xyXQl
+https://drive.google.com/drive/folders/1v5neDzOZPBSS1-D_fIV6C3F4tgq3kLz7
 
 ----
 
@@ -57,8 +57,3 @@ https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction
 ### Heatmap данного датасета
 
 ![alt text](img.png?raw=true)
-
-----
-### Вывод
-
-сделать

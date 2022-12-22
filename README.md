@@ -6,11 +6,8 @@
 Хайбуллин Тагир 11-009
 
 ----
-### Видео с защитой проекта:
 
-добавить
-
-### Блокнот на Google Disk
+### Видеозащита и Блокнот на Google Disk
 https://drive.google.com/drive/folders/1v5neDzOZPBSS1-D_fIV6C3F4tgq3kLz7
 
 ----
@@ -57,3 +54,9 @@ https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction
 ### Heatmap данного датасета
 
 ![alt text](img.png?raw=true)
+
+----
+
+### Вывод
+
+Исходя из наших исследований, мы можем утвержать, что предсказание оттока клиентов достаточно высоко. На данный момент точность правильного прогноза составляет 88%
